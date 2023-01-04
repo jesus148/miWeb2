@@ -1,0 +1,39 @@
+
+*{
+   margin: 0;
+   padding: 0;
+}
+
+
+header img{
+    width: 100%;
+    height: 200px;
+}
+
+h1{
+    text-align: center;
+}
+
+.segundo{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+    height: 400px;
+}
+
+.segundo article{
+    width: 50%;
+   
+    height: 300px;
+    margin: auto;
+    display: block;
+}
+
+
+.segundo article img{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 300px;
+
+}
